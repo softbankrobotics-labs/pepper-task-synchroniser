@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pepper Synchroniser Sample</string>
+
+    <string name="sdk_start">Start Listening</string>
+    <string name="sdk_stop">Stop Listening</string>
+    <string name="sdk_error_start">Error launching the listening service</string>
+    <string name="sdk_error_stop">Error stopping the listening service</string>
+    <string name="sdk_listening">Listening</string>
+    <string name="sdk_receiving">Receiving</string>
+    <string name="sdk_received">Received</string>
+    <string name="sdk_stopped">Stopped</string>
+</resources>
