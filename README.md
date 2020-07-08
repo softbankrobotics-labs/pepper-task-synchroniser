@@ -1,5 +1,7 @@
 # Pepper Task Synchroniser
 
+### Important: Unfortunatley as of February 2020 the Chirp service has been shut down, so you will be unable to register for API keys to use the service. We are working on an alternative solution, but please note this application will not work in its current form. The code will be left open as an example on how to use if you would like to implement your own version of this service in the meantime.
+
 This Android Library is designed to synchronise a task across multiple Pepper robots, or in other words, to execute an action or task simultaneously.
 
 The library relies on a 3rd party solution called [Chirp](https://chirp.io/). This is a product which sends encoded ultrasonic sounds from a **sender** device with a speaker (such as a laptop) and the **receiver** application (Pepper), which when detected are used to run a task. 
